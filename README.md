@@ -29,8 +29,6 @@
 <a href="tel:+351968678209"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
 
-<a href="#"><img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif /></a>
-
 
 
 
